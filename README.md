@@ -38,18 +38,26 @@ You can view build in ../dist folder
 ## Folder structure
 
     .
-    ├── public                   
+    ├── public
+        └──...                   
     ├── src 
         ├── assets 
             ├── fonts
+                └──...
             └── icon
-        ├── components    
+                └──...
+        ├── components
+            └──...    
         └── scss 
             ├── components
-            └── utils                  
+                └──...
+            └── utils   
+                └──...               
+    ├── .eslintrc.json                   
     ├── .gitignore                   
     ├── LICENSE
     ├── package.json
+    ├── package-lock.json
     ├── README.md
     ├── tsconfig.json
     └── yarn.lock
